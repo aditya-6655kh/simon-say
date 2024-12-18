@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+.bots{
+    
+    height: 100px;
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 100px;
+    display: inline-block;
+    margin: 2px;
+}
+
+.red{
+    background-color: rgb(250, 100, 0);
+}
+
+.green{
+    background-color: rgb(0, 250, 100);
+}
+
+.blue{
+    background-color: aqua;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.flash{
+    background-color: white;
+}
